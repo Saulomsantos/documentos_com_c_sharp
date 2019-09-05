@@ -3,9 +3,9 @@ Projeto de manipulação de arquivos de documentos, como .doc, .docx e .pdf usan
 
 ## Biblioteca utilizada
 
-Para o desenvolvimento desse projeto foi utilizada a biblioteca Spire.Doc da empresa e-iceblue.
+Para o desenvolvimento desse projeto foi utilizada a biblioteca Spire.Doc.
 
-A documentação pode ser acessada no site da [e-iceblue](https://www.e-iceblue.com/Introduce/word-for-net-introduce/guideline.html "Visitar o site")
+A documentação pode ser acessada no site da empresa [e-iceblue](https://www.e-iceblue.com/Introduce/word-for-net-introduce/guideline.html "Visitar o site")
 
 ## Observação
 
